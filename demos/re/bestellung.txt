@@ -1,0 +1,6 @@
+
+# Pos Anzahl Beschreibung;      BestNr    Preis
+
+  1   10     Leuchtdioden rot;  LED0815   0.10
+  2   4      Taster schwarz;    TAST317   0.45 
+  3   40     Kontakte;          KON0100   0.05
