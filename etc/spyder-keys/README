@@ -1,0 +1,3 @@
+Need packages enscript, recode, psutils, ghostscript
+
+Build spyder-keys.pdf by running "bash spyder-keys.sh".
